@@ -1,6 +1,6 @@
 # 🛐 Nuestros Valores
 
-En Nosdeu, nuestros valores no son solo palabras en una página: son la forma en la que tomamos decisiones y nos relacionamos con quienes nos rodean, sirven para alinearnos entre nosotros y tenerlos escritos nos facilita el proceso.
+En Nosdeu, nuestros valores no son solo palabras en una página: son la forma en la que tomamos decisiones y nos relacionamos con quienes nos rodean, sirven para alinearnos entre nosotros y tenerlos escritos nos facilita este proceso.
 
 ### Sobremesas largas y los espacios de aire
 
@@ -56,8 +56,6 @@ Pertenece a todas las personas que la han hecho crecer con su tiempo, su conocim
 
 No la usaremos como herramienta comercial ni pondremos en riesgo su sostenibilidad por intereses propios.\
 Son dos proyectos distintos, unidos por la filosofía de lo colectivo y por las personas que creen que compartir hace que todos avancemos.
-
-### Las relaciones y lo humano
 
 ### Las relaciones y lo humano
 
