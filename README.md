@@ -10,7 +10,6 @@ Esta vez, en lugar de quedarnos con la ilusión y el sueño, decidimos dar el pa
 Aunque empezamos dos, siempre hemos sabido que la fuerza de cualquier proyecto está en la comunidad, en las relaciones y en las conexiones que se generan.\
 Creemos que **si al vecino le va bien, a nosotros también nos irá bien**. Que **colectivo** no significa necesariamente **presencial** ni **local**, sino conectar y colaborar más allá de las distancias físicas.
 
-Para nosotros, **pequeño** no significa solos y mucho menos individual.\
 Creemos en la fuerza de los grupos que, aunque reducidos, actúan con intención y generan cambios reales, y más en esta época.
 
 A veces, basta con una acción concreta para desatar ese **efecto mariposa** capaz de transformar algo, del que muchas veces ni siquiera seremos conscientes.
