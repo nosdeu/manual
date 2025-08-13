@@ -3,7 +3,7 @@
 En Nosdeu no nos gusta guardar las cartas bajo la mesa.\
 La transparencia, para nosotros, no es solo mostrar números o publicar un informe: es **contar la historia completa**, con lo bueno y lo malo, para que otras personas puedan aprender, inspirarse e incluso servir para evitar nuestros errores.
 
-No somos expertos en el famoso _build in public_, y vamos ir prendiendo sobre la marcha, pero ya hemos comprobado que abrir procesos y compartir aprendizajes aporta claridad interna y valor externo.\
+No somos expertos en el famoso _build in public_, y vamos ir aprendiendo sobre la marcha, pero ya hemos comprobado que abrir procesos y compartir aprendizajes aporta claridad interna y valor externo.\
 Cuando sabes que lo que haces se va a contar, piensas mejor, argumentas con más cuidado y te comprometes más con tus propias decisiones.
 
 No **llegamos a esta filosofía por casualidad**. En la organización de [La Datolada](https://eventos.datola.es), la rendición de cuentas al finalizar el evento se ha convertido en toda una liturgia: refuerza la confianza de la comunidad y pone en valor lo que realmente cuesta organizar o llevar a cabo cualquier cosa.\
