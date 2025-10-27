@@ -7,3 +7,4 @@
 * [Nuestra propuesta de valor](nuestra-propuesta-de-valor.md)
 * [Claim](claim.md)
 * [🐄 Por qué cooperativa](por-que-cooperativa.md)
+* [Qué significa nosDeu](que-significa-nosdeu.md)
