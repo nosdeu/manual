@@ -6,3 +6,4 @@
 * [💰 Cómo medimos el éxito (más allá del dinero)](como-medimos-el-exito-mas-alla-del-dinero.md)
 * [Nuestra propuesta de valor](nuestra-propuesta-de-valor.md)
 * [Claim](claim.md)
+* [🐄 Por qué cooperativa](por-que-cooperativa.md)
