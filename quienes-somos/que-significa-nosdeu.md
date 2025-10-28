@@ -18,8 +18,6 @@ Hubiera o no algo mejor, tras un mes dándole vueltas y valorando opciones, las 
 
 La idea del nombre surgió una noche mágica de San Juan, entre el olor a hogueras, sardinas y cervezas.
 
-Ahí, casi sin buscarlo, a **Brais** se le encendió la chispa:
-
 > “¿Y si nos llamamos nosDeu?”
 
 El nombre no se decidió esa noche, pero nació así. Quedó flotando, y con el tiempo fue tomando forma hasta convertirse en el elegido.
