@@ -1,4 +1,4 @@
-# 🛐 Nuestros Valores
+# 🛐 Lo que nos mueve
 
 En Nosdeu, nuestros valores no son solo palabras en una página: son la forma en la que tomamos decisiones y nos relacionamos con quienes nos rodean, sirven para alinearnos entre nosotros y tenerlos escritos nos facilita este proceso.
 
@@ -111,4 +111,4 @@ No buscamos la rareza por la rareza, sino abrir huecos para experimentar y ver q
 
 Porque si todo el mundo juega con las mismas reglas, los resultados serán siempre los mismos.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

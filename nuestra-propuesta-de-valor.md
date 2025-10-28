@@ -1,2 +1,0 @@
-# Nuestra propuesta de valor
-
