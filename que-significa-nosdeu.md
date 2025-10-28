@@ -26,7 +26,7 @@ El nombre no se decidió esa noche, pero nació así. Quedó flotando, y con el 
 
 **Nació** **sin significar nada concreto:** un lienzo en blanco, un punto de partida abierto al que podríamos ir dándole sentido y forma con el tiempo.&#x20;
 
-Aunque si hay que buscarle una lectura, podéis verlo así:
+Si hay que buscarle una lectura, una descomposición. Quizás, podáis verlo así:
 
 * el **nos**, de _nosotros en galego._
 * y el **deu**, de _dar_. Aunque siempre hubo quien lo vio como algo de _dioses_ y tampoco nos disgusta.
