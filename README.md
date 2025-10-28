@@ -1,17 +1,20 @@
-# 👶 Por qué nació Nosdeu
+# 🏗️ Transparencia y construir en público
 
-Todo empezó como empiezan muchas ideas: en una sobremesa larga, de esas sin prisa, donde se habla de todo un poco. Entre cafés, cañas, risas y algún que otro: ¿te imaginas si…?, volvía una y otra vez la misma fantasía: **montar una cooperativa.**\
-No para trabajar más, sino para trabajar mejor o por lo menos a nuestra manera. No para hacerlo solos, sino para hacerlo en conjunto.
+En Nosdeu no nos gusta guardar las cartas bajo la mesa.\
+La transparencia, para nosotros, no es solo mostrar números o publicar un informe: es **contar la historia completa**, con lo bueno y lo malo, para que otras personas puedan aprender, inspirarse e incluso servir para evitar nuestros errores.
 
-Después de más de diez años colaborando en distintos proyectos y roles, acumulando aprendizajes, pero también desgaste y la sensación de que las ideas podían volar más rápido o volar diferente, llegó el momento.\
-Dos hechos encendieron la chispa definitiva: el despido de Eva y una preoferta que recibió Brais en una reconocida empresa de producto. Lejos de frenarnos, esas circunstancias nos hicieron reflexionar y preguntarnos: _¿Y si ahora sí es el momento?_\
-Esta vez, en lugar de quedarnos con la ilusión y el sueño, decidimos dar el paso. Así nació **Nosdeu**, **la cooperativa del dato.**
+No somos expertos en el famoso _build in public_, y vamos ir aprendiendo sobre la marcha, pero ya hemos comprobado que abrir procesos y compartir aprendizajes aporta claridad interna y valor externo.\
+Cuando sabes que lo que haces se va a contar, piensas mejor, argumentas con más cuidado y te comprometes más con tus propias decisiones.
 
-Aunque empezamos dos, siempre hemos sabido que la fuerza de cualquier proyecto está en la comunidad, en las relaciones y en las conexiones que se generan.\
-Creemos que **si al vecino le va bien, a nosotros también nos irá bien**. Que **colectivo** no significa necesariamente **presencial** ni **local**, sino conectar y colaborar más allá de las distancias físicas.
+No **llegamos a esta filosofía por casualidad**. En la organización de [La Datolada](https://eventos.datola.es), la rendición de cuentas al finalizar el evento se ha convertido en toda una liturgia: refuerza la confianza de la comunidad y pone en valor lo que realmente cuesta organizar o llevar a cabo cualquier cosa.\
+También nos han inspirado ejemplos como los **partes de guerra** de [Manfred](https://www.getmanfred.com/en/blog/partes-de-guerra-abril-mayo-y-junio-de-2021), la rendición de cuentas de la **TRG**, el **handbook abierto** de [PostHog](https://posthog.com/handbook) o la transparencia radical de [Buffer](https://buffer.com/open), que no solo muestran datos, sino también el _por qué_ de sus decisiones ([Movimiento por la transparencia](https://buffer.com/resources/transparency-movement/) y [Por qué la transparencia importa](https://buffer.com/resources/why-transparency/)), por contar algunos ejemplos.
 
-Creemos en la fuerza de los grupos que, aunque reducidos, actúan con intención y generan cambios reales, y más en esta época.
+Para nosotros, construir en público significa:
 
-A veces, basta con una acción concreta para desatar ese **efecto mariposa** capaz de transformar algo, del que muchas veces ni siquiera seremos conscientes.
+* Contar las cosas buenas y malas, no solo las "bonitas".
+* Mostrar números, pero también contextos y aprendizajes.
+* Abrir debates y pedir feedback, aunque no siempre sea cómodo.
+* Inspirarnos en otros y dejar que otros se inspiren en nosotros.
 
-Ese espíritu colectivo estamos seguros que impulsa tanto a la sociedad como a Nosdeu, y es y será siempre el corazón de todo lo que hacemos.
+A la hora de compartir, no tenemos todavía claro ni la forma, ni el formato, ni el canal: eso se irá viendo y madurando con el tiempo.\
+Lo que sí tenemos claro es que **siempre te contestaremos** a cualquier pregunta que tengas y que la **transparencia es contagiosa.**
