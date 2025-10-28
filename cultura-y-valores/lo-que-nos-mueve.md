@@ -1,4 +1,4 @@
-# 🛐 Lo que nos mueve
+# 🥾 Lo que nos mueve
 
 En Nosdeu, nuestros valores no son solo palabras en una página: son la forma en la que tomamos decisiones y nos relacionamos con quienes nos rodean, sirven para alinearnos entre nosotros y tenerlos escritos nos facilita este proceso.
 
