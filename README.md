@@ -1,9 +1,9 @@
-# 🐄 Changelog de nosDeu  
+# 🐄 Roadmap de nosDeu  
 > Nuestra historia en versión *build in public*
 
 nosDeu no empezó con un plan de negocio, sino con una conversación.  
 Con una Datolada que terminaba, una mudanza que empezaba y una sensación compartida de que podíamos hacer las cosas distintas.  
-Este changelog recopila los hitos más importantes de esa historia: los pasos, las señales y los momentos en los que dijimos “vamos”.
+Este archivo recopila los hitos más importantes de esa historia: los pasos, las señales y los momentos en los que dijimos "vamos".
 
 ---
 
