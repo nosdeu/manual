@@ -1,4 +1,4 @@
-# 💰 Cómo medimos el éxito (más allá del dinero)
+# 💰 Cómo medimos el éxito
 
 Para nosotros, el éxito no es un único número en una hoja de Excel, pero tampoco vamos a engañarnos: la pasta importa. Sin ingresos no hay negocio, y sin negocio no hay cambio.
 
@@ -13,5 +13,5 @@ Pero el éxito no acaba ahí. Para nosotros también significa:
 * Crear un entorno donde la gente quiera colaborar con nosotros.
 * Que nuestra familia esté bien y presente en el camino.
 
-**Éxito es un negocio sostenible y rentable que nos dé libertad, nos haga felices y nos permita vivir mejor que por cuenta ajena.**\
+**En definitiva, tener un negocio sostenible y rentable que nos dé libertad, nos haga felices y nos permita vivir mejor que por cuenta ajena.**\
 Mirar al futuro con ilusión y al pasado con orgullo.
