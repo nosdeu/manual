@@ -1,4 +1,8 @@
-# 🐄 Por qué cooperativa
+---
+icon: people-group
+---
+
+# Por qué cooperativa
 
 Puede resultar curioso tener que explicar esto, pero la verdad es que nos lo preguntan mucho.\
 ¿Por qué una cooperativa? ¿Por qué no una empresa "convencional"?

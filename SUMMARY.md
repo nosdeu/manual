@@ -6,7 +6,7 @@
 ## 🐮 Quiénes somos
 
 * [👶 Cómo empezó todo](quienes-somos/como-empezo-todo.md)
-* [🐄 Por qué cooperativa](quienes-somos/por-que-cooperativa.md)
+* [Por qué cooperativa](quienes-somos/por-que-cooperativa.md)
 * [🔎 Qué significa nosDeu](quienes-somos/que-significa-nosdeu.md)
 * [🐄 Nuestra vaca](quienes-somos/nuestra-vaca.md)
 * [Dónde estamos](quienes-somos/donde-estamos.md)
