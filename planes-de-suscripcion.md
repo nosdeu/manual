@@ -23,6 +23,8 @@ Incluye:
 * Una revisión del dashboard para revisar la evolución de los KPIs principales.
 * Una reunión/email mensual donde te informamos del estado de la solución, de la evolución de los KPIs principales y de novedades del sector que pueden impactar en tu activo.
 
+Puedes presupuestar un análisis más profundo en caso de que haya cambios en los KPIs.
+
 
 
 nosPaquete3
@@ -133,17 +135,40 @@ Trabajamos como **partner de datos**, cuidando, mejorando y haciendo evolucionar
 
 
 
-|                                          | **nosCuida**                      | **nosVigila**                  | **nosImpulsa**               | **nosAcompaña**          | **nosIntegra**       |
-| ---------------------------------------- | --------------------------------- | ------------------------------ | ---------------------------- | ------------------------ | -------------------- |
-| **Objetivo principal**                   | Mantener y proteger el ecosistema | Controlar métricas y evolución | Ejecutar y mejorar con datos | Decidir estratégicamente | Ser parte del equipo |
-| **Nivel de implicación**                 | Básico                            | Básico + negocio               | Medio                        | Alto                     | Muy alto             |
-| **Revisión técnica**                     | ✔️ Mensual                        | ✔️ Mensual                     | ✔️ Mensual                   | ✔️ Continua              | ✔️ Continua          |
-| **Seguimiento de KPIs**                  | —                                 | ✔️                             | ✔️                           | ✔️                       | ✔️                   |
-| **Evolución del ecosistema**             | —                                 | —                              | ✔️                           | ✔️                       | ✔️                   |
-| **Análisis específicos**                 | —                                 | —                              | ✔️                           | ✔️                       | ✔️                   |
-| **Apoyo estratégico**                    | —                                 | —                              | —                            | ✔️                       | ✔️                   |
-| **Reuniones con equipos**                | —                                 | —                              | —                            | ✔️                       | ✔️ (todas)           |
-| **Integración en el día a día**          | —                                 | —                              | —                            | —                        | ✔️                   |
-| **Priorización mensual conjunta**        | ✔️                                | ✔️                             | ✔️                           | ✔️                       | ✔️                   |
-| **Flexibilidad ante nuevas necesidades** | Media                             | Media                          | Alta                         | Muy alta                 | Máxima               |
-| **Tipo de relación**                     | Soporte                           | Control                        | Mejora continua              | Partner estratégico      | Miembro del equipo   |
+|                                                                                         | **nosVigila**                     | **nosCuida**                   | **nosImpulsa**               | **nosAcompaña**          | **nosIntegramos**       |
+| --------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------ | ---------------------------- | ------------------------ | ----------------------- |
+| **Objetivo principal**                                                                  | Mantener y proteger el ecosistema | Controlar métricas y evolución | Ejecutar y mejorar con datos | Decidir estratégicamente | Ser parte del día a día |
+| **Nivel de implicación**                                                                | Básico                            | Básico + negocio               | Medio                        | Alto                     | Muy alto                |
+| **Revisión técnica**                                                                    | ✔️ Mensual                        | ✔️ Mensual                     | ✔️ Mensual                   | ✔️ Continua              | ✔️ Continua             |
+| **Seguimiento de KPIs**                                                                 | —                                 | ✔️                             | ✔️                           | ✔️                       | ✔️                      |
+| **Evolución continúa del ecosistema**                                                   | —                                 | —                              | ✔️                           | ✔️                       | ✔️                      |
+| **Análisis específicos**                                                                | —                                 | —                              | ✔️                           | ✔️                       | ✔️                      |
+| **Apoyo estratégico**                                                                   | —                                 | —                              | ✔️                           | ✔️                       | ✔️                      |
+| **Reuniones con equipos**                                                               | —                                 | —                              | —                            | ✔️                       | ✔️                      |
+| **Integración en el día a día**                                                         | —                                 | —                              | —                            | —                        | ✔️                      |
+| **Priorización mensual conjunta**                                                       | ✔️                                | ✔️                             | ✔️                           | ✔️                       | ✔️                      |
+| **Flexibilidad ante nuevas necesidades**                                                | Baja                              | Baja                           | Media                        | Alta                     | Máxima                  |
+| **Tipo de relación**                                                                    | Soporte                           | Control                        | Mejora continua              | Partner estratégico      | Operativa diaria        |
+| <p><strong>Precio*</strong><br><strong>(multiplicador por tipo de cliente)</strong></p> | 300€                              | 500€                           | 1.800€                       | 7.500€                   | 18.000€                 |
+| **Horas máximas mensuales (interno)**                                                   | 1h                                | 2h                             | 15h                          | 80h                      | 160h                    |
+
+#### Proyectos fuera de plan
+
+Nuestros planes están pensados para el **cuidado, la evolución continua y el acompañamiento estratégico** de tu ecosistema de datos.
+
+Algunos trabajos, por su complejidad o alcance, se plantean como **proyectos específicos**, fuera del plan mensual.\
+Por ejemplo:
+
+* Segmentación avanzada de un CRM
+* Rediseño completo del modelo de datos
+* Implementaciones técnicas complejas
+* Integraciones a gran escala
+* Proyectos con varios equipos implicados
+
+Estos proyectos se definen con:
+
+* Alcance claro
+* Objetivos concretos
+* Presupuesto y tiempos cerrados
+
+El plan mensual sigue activo y actúa como **soporte y gobierno del ecosistema**, mientras el proyecto se ejecuta en paralelo.
