@@ -21,5 +21,5 @@
 
 ***
 
-* [Page 2](page-2.md)
+* [Planes de acompañamiento](planes-de-acompanamiento.md)
 * [Cómo trabajamos](como-trabajamos.md)
