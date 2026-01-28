@@ -6,8 +6,7 @@ Un sticker de WhatsApp, una broma que nos hacían los amigos...
 Empezamos a jugar con ella, a ponerle frases, a usarla.\
 Y, sin darnos cuenta, se convirtió en **nuestro lazo común**, un símbolo de identidad, conexión y parte de nuestra historia familiar.\
 \
-<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">\
-
+<img src="../.gitbook/assets/image (1).png" alt="" data-size="original"><br>
 
 Nos empezó a molar.\
 Servía como guiño a lo presencial, a lo rural, y además, seamos sinceros, **toda empresa o evento que mola tiene una mascota.** Y hay pocos animales que evoquen más que una vaca.
