@@ -22,3 +22,4 @@
 ***
 
 * [Page 2](page-2.md)
+* [Planes de suscripción](planes-de-suscripcion.md)
