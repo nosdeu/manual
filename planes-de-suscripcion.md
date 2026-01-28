@@ -152,23 +152,42 @@ Trabajamos como **partner de datos**, cuidando, mejorando y haciendo evolucionar
 | <p><strong>Precio*</strong><br><strong>(multiplicador por tipo de cliente)</strong></p> | 300€                              | 500€                           | 1.800€                       | 7.500€                   | 18.000€                 |
 | **Horas máximas mensuales (interno)**                                                   | 1h                                | 2h                             | 15h                          | 80h                      | 160h                    |
 
-#### Proyectos fuera de plan
+### Condiciones del Servicio&#x20;
 
-Nuestros planes están pensados para el **cuidado, la evolución continua y el acompañamiento estratégico** de tu ecosistema de datos.
+**1. Pago mensual por adelantado**\
+Todos los planes se facturan **mensualmente y por adelantado**, asegurando que tu capacidad dedicada está reservada y priorizada.
 
-Algunos trabajos, por su complejidad o alcance, se plantean como **proyectos específicos**, fuera del plan mensual.\
-Por ejemplo:
+**2. Sin permanencia, sin sorpresas**
 
-* Segmentación avanzada de un CRM
-* Rediseño completo del modelo de datos
-* Implementaciones técnicas complejas
-* Integraciones a gran escala
-* Proyectos con varios equipos implicados
+* Puedes **cancelar tu plan cuando quieras**.
+* Solo avisa antes del inicio del siguiente mes.
+* No hay penalizaciones ni compromisos forzosos.
 
-Estos proyectos se definen con:
+**3. Alcance de los planes**
 
-* Alcance claro
-* Objetivos concretos
-* Presupuesto y tiempos cerrados
+* Cubren **cuidado, evolución y acompañamiento continuo** de tu ecosistema de datos.
+* **Proyectos complejos o de gran envergadura** (CRM avanzado, integraciones grandes, rediseños de modelo) se presupuestan **por separado**, con objetivos y presupuesto claros.
 
-El plan mensual sigue activo y actúa como **soporte y gobierno del ecosistema**, mientras el proyecto se ejecuta en paralelo.
+**4. Priorización mensual**\
+Cada mes revisamos:
+
+* Estado técnico y de negocio
+* Necesidades actuales
+* Acciones prioritarias según impacto
+
+Así aseguramos **avance continuo sin pérdida de foco**.
+
+**5. Nivel de implicación según el plan**
+
+* La participación, reuniones y entregables dependen del **plan contratado**.
+* Desde mantenimiento básico hasta integración total en tu equipo.
+
+**6. Transparencia y comunicación**
+
+* Recibes información clara sobre el estado de tu ecosistema y el impacto de nuestras acciones.
+* Siempre con enfoque en resultados y valor para tu negocio.
+
+**7. Partner, no proveedor**
+
+* Trabajamos como **aliado estratégico**, cuidando, mejorando y haciendo evolucionar tu ecosistema digital.
+* Lo que hacemos se adapta a tus necesidades, no al reloj.
