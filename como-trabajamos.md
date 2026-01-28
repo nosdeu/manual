@@ -114,3 +114,13 @@ Así aseguramos **avance continuo sin pérdida de foco**.
 
 * Trabajamos como **aliado estratégico**, cuidando, mejorando y haciendo evolucionar tu ecosistema digital.
 * Lo que hacemos se adapta a tus necesidades, no al reloj.
+
+
+
+| Plan               | Objetivo                                   | Nivel de implicación | Qué incluye                                                                   | Facturación / Flexibilidad                                                 |
+| ------------------ | ------------------------------------------ | -------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **nosCuida** 🌱    | Mantener y proteger tu ecosistema de datos | Básico               | Revisión técnica mensual, informe de estado, alertas del sector               | Pago mensual por adelantado, cancelable en cualquier momento               |
+| **nosVigila** 📊   | Control de métricas y evolución            | Básico + negocio     | Todo de nosCuida + seguimiento de KPIs                                        | Pago mensual por adelantado, cancelable en cualquier momento               |
+| **nosImpulsa** 🚀  | Evolución y ejecución basada en datos      | Medio                | Todo de nosVigila + acciones evolutivas y análisis prioritarios               | Pago mensual por adelantado, cancelable en cualquier momento               |
+| **nosAcompaña** 🧭 | Acompañamiento estratégico                 | Alto                 | Todo de nosImpulsa + apoyo en decisiones estratégicas y reuniones con equipos | Pago mensual por adelantado, cancelable en cualquier momento               |
+| **nosIntegra** 🤝  | Integración total en tu equipo             | Muy alto             | Todo de nosAcompaña + participación en el día a día del equipo                | <p></p><p>Pago mensual por adelantado, cancelable en cualquier momento</p> |
