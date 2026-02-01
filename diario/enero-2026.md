@@ -46,7 +46,7 @@ Queremos sacar las horas del centro de la conversación.&#x20;
 **Evitar eso de "si vais dos a la reunión son dos horas", o modelos que penalicen la innovación y la automatización.** Más en estos tiempos que corren.\
 Iremos iterando el sistema y, cuando esté más maduro, lo haremos público.
 
-#### Pequeños hitos grandes hitos
+#### Pequeños grandes hitos
 
 La cuenta bancaria de la cooperativa ya está operativa: pagamos [nuestra primera inversión a David Bonilla](https://nosdeu.com/nosdiario/patrocinamos-bonilista-propositos-2026) y empezamos a comprar equipos y material para poder operar.\
 También algo de merchan, porque se viene la **Superweek** y [marzo también trae movimiento.](https://www.instagram.com/p/DTcz04PDGUf/)
