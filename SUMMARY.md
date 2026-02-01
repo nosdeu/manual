@@ -23,3 +23,7 @@
 
 * [Planes de acompañamiento](planes-de-acompanamiento.md)
 * [Cómo trabajamos](como-trabajamos.md)
+
+## Diario
+
+* [Enero 2026](diario/enero-2026.md)
