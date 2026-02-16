@@ -1,7 +1,3 @@
----
-noIndex: true
----
-
 # Aiudo - Etiquetado Funnel
 
 {% stepper %}
